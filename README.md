@@ -26,6 +26,9 @@
       :man_technologist: Something about myself...
     </h3>
     <p>I am a Frontend Developer from Russia :ru:</p>
+    <ol>
+      <li>123</li>
+    </ol>
   </div>
   <div align="right" vertical-align="middle">
     <img src="https://media.giphy.com/media/nZUcWtrNqs9Nu/giphy.gif" width="300px" />
