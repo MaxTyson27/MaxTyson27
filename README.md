@@ -20,9 +20,10 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 <h3 align="center">
-  Something about myself...
+  
 </h3>
 <div align="center">
+  Something about myself...
   <img v-align="middle" src="https://media.giphy.com/media/nZUcWtrNqs9Nu/giphy.gif" width="300px" />
 </div>
 
