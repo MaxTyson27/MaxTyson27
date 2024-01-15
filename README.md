@@ -40,6 +40,17 @@
   :hammer_and_wrench: Languages and Tools :
 </h3>
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="30px"/>
+  <img width="30px" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg"/>
+  <img width="30px" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg"/>
+  <img width="30px" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg"/>
+  <img width="30px" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg"/>
+  <img width="30px" src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg"/>
+  <img width="30px" src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg"/>
+  <img width="30px" src="https://github.com/devicons/devicon/blob/master/icons/gulp/gulp-plain.svg"/>
+  <img width="30px" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg"/>
+  <img width="30px" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"/>
+  <img width="30px" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg"/>
+  <img width="30px" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg"/>
 </div>
 
