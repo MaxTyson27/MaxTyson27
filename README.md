@@ -22,9 +22,13 @@
 <h3 align="center">
   
 </h3>
-<div align="center">
-  Something about myself...
-  <img v-align="middle" src="https://media.giphy.com/media/nZUcWtrNqs9Nu/giphy.gif" width="300px" />
+<div>
+  <div align="left">
+    Something about myself...
+  </div>
+  <div align="right" vertical-align="middle">
+    <img src="https://media.giphy.com/media/nZUcWtrNqs9Nu/giphy.gif" width="300px" />
+  </div>
 </div>
 
 
