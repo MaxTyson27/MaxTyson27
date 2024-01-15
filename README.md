@@ -19,23 +19,20 @@
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-***
 <div>
   <div align="left" style="float: left">
     <h3>
       :man_technologist: Something about myself...
     </h3>
     <p>I am a Frontend Developer from Russia :ru:</p>
-    <ol>
-      <li>123</li>
-    </ol>
+    <ul>
+      <li>My name's Max. I'm 22. </li>
+      <li>I love frontend, I love coding and developing interesting projects and tasks</li>
+      <li>In my free time I read books :book:, I like detective stories :male_detective:. Also TV series, movies, gym :mechanical_arm:. Hobbies include summer fishing :fishing_pole_and_fish: in nature, sometimes I play the guitar, and I do pet projects</li>
+    </ul>
   </div>
   <div align="right" vertical-align="middle">
     <img src="https://media.giphy.com/media/nZUcWtrNqs9Nu/giphy.gif" width="300px" />
   </div>
 </div>
-*:telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
-*:seedling: Exploring Technical Content Writing.
-*:zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
-*:mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
 
