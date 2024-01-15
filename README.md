@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="100"/>
 </div>
-<div id="bages">
+<div id="bages" align="center">
   <a href='https://www.instagram.com/maxiim.it?igsh=MXZzeXh2Y2t5bm1zOQ=='>
     <img src="https://img.shields.io/badge/instagram-red?style=for-the-badge&logo=Instagram&logoColor=white" />
   </a>
