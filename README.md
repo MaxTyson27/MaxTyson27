@@ -20,7 +20,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 <div>
-  <div align="left">
+  <div align="left" style="float: left">
     <h3>
       :man_technologist: Something about myself...
     </h3>
