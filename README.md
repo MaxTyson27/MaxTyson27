@@ -22,8 +22,9 @@
 <div>
   <div align="left">
     <h3>
-      ### :woman_technologist: Something about myself... :
+      ### :man_technologist: Something about myself...
     </h3>
+    ### :man_technologist: Something about myself...
   </div>
   <div align="right" vertical-align="middle">
     <img src="https://media.giphy.com/media/nZUcWtrNqs9Nu/giphy.gif" width="300px" />
