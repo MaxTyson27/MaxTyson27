@@ -20,10 +20,13 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 <div>
-  <div align="left" style="float: left">
-    <h3>
+  <div>
+    <h3 align="center">
       :man_technologist: Something about myself...
     </h3>
+    <div align="center">
+      <img src="https://media.giphy.com/media/nZUcWtrNqs9Nu/giphy.gif" width="200px" />
+    </div>
     <p>I am a Frontend Developer from Russia :ru:</p>
     <ul>
       <li>My name's Max. I'm 22. </li>
@@ -31,9 +34,6 @@
       <li>In my free time I read books :book:, I like detective stories :male_detective:. Also gym :mechanical_arm:, summer fishing :fishing_pole_and_fish: in nature, guitar.</li>
       <li>I am constantly developing, interested in various JavaScript libraries and frameworks</li>
     </ul>
-  </div>
-  <div align="right" vertical-align="middle">
-    <img src="https://media.giphy.com/media/nZUcWtrNqs9Nu/giphy.gif" width="300px" />
   </div>
 </div>
 <h3>
@@ -52,5 +52,6 @@
   <img width="40px" heigth="40px" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"/>
   <img width="40px" heigth="40px" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg"/>
   <img width="40px" heigth="40px" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg"/>
+  <img width="40px" heigth="40px" src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original-wordmark.svg"/>
+  <img width="40px" heigth="40px" src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg"/>
 </div>
-### test
