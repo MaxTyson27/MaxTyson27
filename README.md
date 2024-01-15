@@ -25,7 +25,7 @@
       :man_technologist: Something about myself...
     </h3>
     <div align="center">
-      <img src="https://media.giphy.com/media/nZUcWtrNqs9Nu/giphy.gif" width="200px" />
+      <img src="https://media.giphy.com/media/nZUcWtrNqs9Nu/giphy.gif" width="250px" />
     </div>
     <p>I am a Frontend Developer from Russia :ru:</p>
     <ul>
