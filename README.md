@@ -22,5 +22,8 @@
 <h3 align="center">
   Something about myself...
 </h3>
-<img align="center" src="https://media.giphy.com/media/nZUcWtrNqs9Nu/giphy.gif" width="300px" />
+<div align="center">
+  <img src="https://media.giphy.com/media/nZUcWtrNqs9Nu/giphy.gif" width="300px" />
+</div>
+
 
