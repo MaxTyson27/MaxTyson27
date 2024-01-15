@@ -21,6 +21,6 @@
 </h1>
 <h3>
   Something about me...
-  <img src="https://media.giphy.com/media/nZUcWtrNqs9Nu/giphy.gif" width="100px" />
+  <img align="center src="https://media.giphy.com/media/nZUcWtrNqs9Nu/giphy.gif" width="300px" />
 </h3>
 
