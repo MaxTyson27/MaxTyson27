@@ -20,7 +20,10 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 <h3>
-  Something about me...
-  <img align="center src="https://media.giphy.com/media/nZUcWtrNqs9Nu/giphy.gif" width="300px" />
+  Something about myself...
+  <img align="center" src="https://media.giphy.com/media/nZUcWtrNqs9Nu/giphy.gif" width="300px" />
 </h3>
+<div>
+
+</div>
 
