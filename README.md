@@ -23,7 +23,7 @@
   Something about myself...
 </h3>
 <div align="center">
-  <img src="https://media.giphy.com/media/nZUcWtrNqs9Nu/giphy.gif" width="300px" />
+  <img v-align="middle" src="https://media.giphy.com/media/nZUcWtrNqs9Nu/giphy.gif" width="300px" />
 </div>
 
 
